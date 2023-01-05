@@ -1,4 +1,4 @@
 # Todo
 Todo App
 
-Link:jahil-todo.netlify.app
+Link: http://jahil-todo.netlify.app
